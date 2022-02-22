@@ -1,4 +1,4 @@
-# seattle_streamllit_demo
+# seattle_streamlit_demo
 During this introductory workshop, you will learn how to deploy an ML model using Streamlit. 
 
 Streamlit is a user-friendly way to add interactivity and engagement to any ML project. 
